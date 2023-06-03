@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kpsuan/Agency.git/static/css/main.0d778f70.css",
-    "main.js": "/kpsuan/Agency.git/static/js/main.3b75a093.js",
-    "static/media/icon.jpg": "/kpsuan/Agency.git/static/media/icon.5b85c582ff3c99d8a9a9.jpg",
-    "static/media/tugonlogo.png": "/kpsuan/Agency.git/static/media/tugonlogo.78b0e5a4de5e01f787f2.png",
-    "index.html": "/kpsuan/Agency.git/index.html",
-    "main.0d778f70.css.map": "/kpsuan/Agency.git/static/css/main.0d778f70.css.map",
-    "main.3b75a093.js.map": "/kpsuan/Agency.git/static/js/main.3b75a093.js.map"
+    "main.css": "/static/css/main.0d778f70.css",
+    "main.js": "/static/js/main.dd8f9ba7.js",
+    "static/media/icon.jpg": "/static/media/icon.5b85c582ff3c99d8a9a9.jpg",
+    "static/media/tugonlogo.png": "/static/media/tugonlogo.78b0e5a4de5e01f787f2.png",
+    "index.html": "/index.html",
+    "main.0d778f70.css.map": "/static/css/main.0d778f70.css.map",
+    "main.dd8f9ba7.js.map": "/static/js/main.dd8f9ba7.js.map"
   },
   "entrypoints": [
     "static/css/main.0d778f70.css",
-    "static/js/main.3b75a093.js"
+    "static/js/main.dd8f9ba7.js"
   ]
 }
